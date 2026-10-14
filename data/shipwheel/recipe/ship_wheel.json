@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SPS",
+    "SSS"
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "P": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "id": "minecraft:barrel",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "shipwheel:ship_wheel",
+      "minecraft:custom_name": {
+        "text": "Ship Wheel",
+        "color": "gold",
+        "italic": false
+      },
+      "minecraft:custom_data": {
+        "shipwheel": 1
+      }
+    }
+  }
+}
