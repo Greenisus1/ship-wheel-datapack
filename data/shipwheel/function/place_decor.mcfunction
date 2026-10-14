@@ -1,0 +1,1 @@
+summon minecraft:item_display ~ ~1 ~ {item:{id:"minecraft:barrel",count:1,components:{"minecraft:item_model":"shipwheel:ship_wheel"}},Tags:["shipwheel_decor"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]}}
